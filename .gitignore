@@ -1,0 +1,8 @@
+#Ignoramos el directorio de .ipynb_checkpoints
+.ipynb_checkpoints
+
+#Ignoramos el directorio de venv
+venv
+
+#Ignoramos el archivo test_dependencies.py para corroborar que el entorno este preparado
+test_dependencies.py
